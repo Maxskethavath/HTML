@@ -1,0 +1,15 @@
+video  completed #5
+
+
+
+Important things to learn 
+26/01/2024
+use <strong> rather then <b> for  bold and 
+use <em> rather then <i> for italic 
+p*4 for giving four paragraphs
+
+html is the  body ,css is the beauty , js is the brain to the website
+emmet "which helps for coding in html easier and simple"
+
+
+
